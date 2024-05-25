@@ -4,3 +4,14 @@ plotly
 numpy
 openpyxl
 streamlit-authenticator
+pandas==1.4.2
+numpy==1.21.5
+streamlit==1.29.0
+streamlit_option_menu==0.3.6
+streamlit-authenticator
+streamlit-on-hover-tabs==1.0.1
+datetime
+plotly==5.6.0
+st-gsheets-connection
+scikit-learn
+pip==23.3.1
